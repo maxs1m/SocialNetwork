@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+}
+
+.nav {
+    grid-area: nav;
+    background: aqua;
+    padding: 20px 10px;
+}
+
+.nav__item {
+    margin: 10px 0;
+}
+
+.nav__item:last-child {
+    margin-top: 50px;
+}

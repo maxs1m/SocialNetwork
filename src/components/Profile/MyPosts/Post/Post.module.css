@@ -1,0 +1,37 @@
+.item {
+    margin-top: 20px;
+    display: flex;
+    position: relative;
+    background: azure;
+}
+
+.text {
+    margin-left: 10px;
+    width: 100%;
+}
+
+.ava {
+    width: 50px;
+    height: auto;
+}
+
+.btn {
+    position: absolute;
+    bottom: 5px;
+    width: auto;
+    height: 20px;
+}
+
+.btn_like {
+    right: 80px;
+}
+
+.btn_dislike {
+    right: 20px;
+}
+
+.likesCount {
+    position: absolute;
+    bottom: 5px;
+    right: 130px;
+}

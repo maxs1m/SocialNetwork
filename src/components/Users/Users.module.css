@@ -1,0 +1,53 @@
+.ava {
+    display: flex;
+    flex-direction: column;
+    width: 120px;
+}
+
+.img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.btn {
+
+}
+
+.container {
+    display: flex;
+}
+
+.profile {
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: lightskyblue;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    justify-content: space-between;
+}
+
+.place {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+}
+
+.place p {
+    display: block;
+    text-align: center;
+}
+
+.selectedPage {
+    font-weight: bold;
+}

@@ -1,0 +1,20 @@
+.header {
+    grid-area: header;
+    background: aquamarine;
+    height: max-content;
+    position: relative;
+}
+
+.header img {
+    width: 90px;
+    height: auto;
+    background-color: inherit;
+    margin: 10px;
+}
+
+.login__block {
+    color: black;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
